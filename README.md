@@ -1,8 +1,8 @@
-#Simple library Management System
+# Simple library Management System
 
 This project was developed in November 2025, **during our first month of studying Computer Science**. It was created as a simple mid-term project.
 
-#How it started
+# How it started
 
 Neither of us had written code before. This was our very first mini-project.
 
@@ -10,7 +10,7 @@ The code in this repository is **kept exactly as it was originally written**. We
 
 ---
 
-##What is this?
+## What is this?
 
 A simple command-line Library Management System written in Python.
 
@@ -27,7 +27,7 @@ A simple command-line Library Management System written in Python.
 - No object-oriented programming (OOP)
 - Data is stored in lists instead of files or a database
 
-##What we learned
+## What we learned
 
 More importantly than the code itself, this project taught us:
 
