@@ -1,5 +1,5 @@
 #mid-term project
-#Parsa Soltanabadi
+#Parsa Soltanabadi, Arian Habibi
 
 """ lists: """
 members_list = [
