@@ -35,4 +35,4 @@ More importantly than the code itself, this project taught us:
 - How to break a problem into smaller pieces
 - The fundamentals of Python programming
 
-***Every programmer starts somewhere, and this repository is where our journey began.***
+***Every programmer starts somewhere, and this repository is where our journey began.*** 🤍
