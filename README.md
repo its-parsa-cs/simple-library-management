@@ -16,7 +16,7 @@ A simple command-line Library Management System written in Python.
 
 *Users can manage books and members, borrow and return books, check availability, and generate simple reports.*
 
-##How could it be improved?
+## How could it be improved?
 
 *This project has many limitations, which is expected for a first-month project:*
 
